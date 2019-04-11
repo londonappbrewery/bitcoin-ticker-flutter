@@ -28,6 +28,4 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-class CoinData {
-  //Create your getCoinData() method here.
-}
+class CoinData {}
